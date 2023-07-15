@@ -494,18 +494,15 @@ header .follow a:hover{
 .contact .icons-container .icons{
     flex:1 1 25rem;
     text-align: center;
-    padding:10rem;
+    padding:2rem;
     background:#fff;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
-    border-radius: .4rem;
-
-    
+    border-radius: .5rem;
 }
 
 .contact .icons-container .icons i{
     height:5rem;
     width:5rem;
-    transform: translateY(-50%);
     line-height: 5rem;
     font-size: 2rem;
     background: var(--main-color);
@@ -517,14 +514,12 @@ header .follow a:hover{
     color:#111;
     font-size: 2rem;
     padding:.5rem 0;
-    padding-top: 1rem;
-    transform: translateY(-50%)
 }
 
 .contact .icons-container .icons p{
     color:#666;
     font-size: 1.7rem;
-    
+    padding:.5rem 0;
 }
 
 .contact .row{
